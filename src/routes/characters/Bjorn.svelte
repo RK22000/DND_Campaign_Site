@@ -1,0 +1,9 @@
+<h1>The Saga of Bjorn Ironoak:</h1>
+
+<p>Bjorn Ironoak is the last living son of the famous Ironoak clan. The Ironoaks are famous for their mastery of warfare both martial and magical used often in deadly combination. Eldridge Knights and War Mages of the Ironoak clan were said to have struck fear even into elven mages and inspired their allies. Besides their legendary skill in battle the Ironoaks are perhaps even more well known for being some of the most skilled dwarven craftsmen that had walked the earth. Producing great stone fortresses, glittering magical armor fit for a King’s guard, and weapons to slay Gods.</p>
+
+<p>Ironoaks have a saying, Pride of a Dragon, Stubborn as a Dwarf. So has the clan carried themselves throughout the ages. Establishing a small Kingdom for themselves independent from the mainstream Dwarves. That was until the clan weakened and leadership fell into the hands of lesser clansmen. Then the great tragedy came when the Clan had lost their kingdom and the centuries of Ironoak rule over a proud city state fell along with the city. For a time the Ironoaks become nomadic making their living as traveling merchants and mercenaries for Kings of Men, Elves, and Dwarves. It was not until recent history that Ironoaks had been nearly exterminated by raiders and pirates from the South.</p> 
+
+<p>Now Bjorn stands as the last. But rather then fade into obscurity Bjorn shall restore his Clan and return Ironoak rule to the Dwarven race and lead them into a new Golden Age!</p>
+
+<p>And so Bjorn travels North to Frozen wastelands to find the fabled workshop of his ancestors Brok and Sindri and use it to help him restore his Clan.</p>
