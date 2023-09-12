@@ -14,3 +14,5 @@
         <Bjorn/>
     </div>
 </CharacerBar>
+
+<CharacerBar color_class='bg-aero'/>

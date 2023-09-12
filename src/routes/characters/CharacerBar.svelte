@@ -13,7 +13,11 @@
                 <div class="w-full h-full bg-cover bg-center transition hover:scale-125 brightness-75 hover:brightness-100 duration-1000" style="background-image: url({image_src});"/>
             </div>
             <div class="w-1/2 text-misty_rose">
-                <slot >Sphinx of black quartz judge my vow.</slot>
+                <slot >
+                    <p class="w-full h-full flex justify-center items-center">
+                        Sphinx of black quartz judge my vow.
+                    </p>
+                </slot>
             </div>
             <!-- <p class="w-1/2 flex items-center justify-center text-misty_rose">{content}</p> -->
         </div>
