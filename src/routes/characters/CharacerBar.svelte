@@ -4,6 +4,7 @@
     $: text_color = ['bg-persian_red', 'bg-aero', 'bg-bg-davys_gray'].includes(color_class) ? 'text-misty_rose' : 'text-davys_gray';
     export let image_src=`${base}/pics/PaperDragons.jpg`;
     export let title="Title";
+    
 </script>
 
 <div class='{color_class} font-sans'>
