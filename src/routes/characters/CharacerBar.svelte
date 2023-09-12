@@ -1,7 +1,8 @@
 <script>
+    import {base} from '$app/paths'
     export let color_class = 'bg-persian_red';
     $: text_color = ['bg-persian_red', 'bg-aero', 'bg-bg-davys_gray'].includes(color_class) ? 'text-misty_rose' : 'text-davys_gray';
-    export let image_src='/pics/PaperDragons.jpg';
+    export let image_src=`${base}/pics/PaperDragons.jpg`;
     export let title="Title";
 </script>
 
